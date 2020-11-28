@@ -1,8 +1,8 @@
 #!/usr/bin/python2
 
-# Creator :  ./RanddSoft
-# Team : Black Hat
-# Never Mind
+# Creator : MrRobot Framework
+# YT : MrRobot Framework
+# Subscribe Me Please
 
 from requests import ConnectionError
 from time import sleep
@@ -40,11 +40,11 @@ def Banner():
   ___) | |_) | (_| | | | | | |   \ V  V / (_| |
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
        |_|                                     
-                   '''+W+'Creator : ./RanddSoft\n\t\t   Web : randdsoftindonesia.com')
+           '''+W+'Subscribe Channel YT : MrRobot Framework\n\t\t
                    
 def RupaRupa():
 	print
-	MesinTik(C+'\t SPAM RUPA RUPA')
+	MesinTik(C+'\t SPAM RUPA-RUPA')
 	MesinTik(W+'\t================')
 	print
 	number = raw_input(''+C+'MASUKKAN NOMOR TARGET'+W+' ('+H+' Ex :'+C+' 0812xxxx '+W+') : ')
@@ -120,7 +120,7 @@ def RupaRupa():
 		
 		except ConnectionError:
 			print
-			print(M+'Cek Koneksi JaringanMu Gan !')
+			print(M+'Cek Koneksi Jaringanmu Bro !')
 			break
 		
 		except NameError:
@@ -184,7 +184,7 @@ def Tokped():
 				
 		except ConnectionError:
 			print
-			print(M+'Cek Koneksi JaringanMu Gan !')
+			print(M+'Cek Koneksi Jaringanmu Bro !')
 			break
 		
 		except NameError:
@@ -195,9 +195,9 @@ def Tokped():
                    
 def Spam():
 	os.system('clear')
-	print(C+'Klik Iklan Dulu'+W+' Su !'+C+' :V')
+	print(C+'Subscribe Channel Saya Dulu'+W+' Bro !'+C+' :V')
 	sleep(1.5)
-	os.system('xdg-open https://randdsoftindonesia.com/')
+	os.system('xdg-open https://www.youtube.com/c/MrRobotFramework')
 	os.system('clear')
 	sleep(1.3)
 	Banner()
