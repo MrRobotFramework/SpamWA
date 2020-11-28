@@ -1,8 +1,8 @@
 #!/usr/bin/python2
 
-# Creator :  ./RanddSoft
-# Team : Black Hat
-# Never Mind
+# Creator : MrRobot Framework
+# YT : https://www.youtube.com/c/MrRobotFramework
+# Subscribe Me Please
 
 from requests import ConnectionError
 from time import sleep
@@ -40,7 +40,7 @@ def Banner():
   ___) | |_) | (_| | | | | | |   \ V  V / (_| |
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
        |_|                                     
-                   '''+W+'Creator : ./RanddSoft\n\t\t   Web : randdsoftindonesia.com')
+                   '''+W+'Creator : MrRobot\n\t\t  YT : MrRobot Framework')
                    
 def RupaRupa():
 	print
@@ -195,9 +195,9 @@ def Tokped():
                    
 def Spam():
 	os.system('clear')
-	print(C+'Klik Iklan Dulu'+W+' Su !'+C+' :V')
+	print(C+'Subscribe Dulu Channel Saya'+W+' Bro !'+C+' :V')
 	sleep(1.5)
-	os.system('xdg-open https://randdsoftindonesia.com/')
+	os.system('xdg-open https://www.youtube.com/c/MrRobotFramework')
 	os.system('clear')
 	sleep(1.3)
 	Banner()
